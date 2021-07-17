@@ -66,46 +66,6 @@
   </tr>
 </table>
 
----
-
-<h3>Current Projects:</h3>
-<table>
-  <tr>
-    <th>Title</th>
-    <th>Description</th>
-  </tr>
-
-  <tr>
-    <th><strong><a href="https://replit.com/@RayhanADev/About">Personal Portfolio</a></strong></th> 
-    <th><em>Revamping my personal portfolio site to use modern web technologies and my new skills.</em></th> 
-  </tr>
-
-  <tr>
-    <th><strong><a href="https://replit.com/@RayhanADev/DeltaScheme">DeltaScheme</a></strong></th> 
-    <th><em>A pyramid scheme created for the Internet! My first major fullstack project for production.</em></th> 
-  </tr>
-</table>
-
----
-
-<h3>Open Source Contributions:</h3>
-<table>
-  <tr>
-    <th>Title</th>
-    <th>Description</th>
-  </tr>
-
-  <tr>
-    <th><strong><a href="https://github.com/thinkfiveable/open">Fiveable Open Source Initiative</a></strong></th> 
-    <th><em>Developed two methods of using the Github API that makes dynamically retriving data easier.</em></th> 
-  </tr>
-  <tr>
-    <th><strong><a href="https://github.com/ryo-ma/github-profile-trophy">Github Profile Trophy</a></strong></th> 
-    <th><em>Created the "Oldie" theme and commited various fixes.</em></th> 
-  </tr>
-</table>
-
----
 
 <h3>Github Stats:</h3>
 <div align="left">
