@@ -1,9 +1,9 @@
 
 
-[<img align="left" height="150px" src="https://i.postimg.cc/c4MC9HfC/173149-F5-3-F57-40-C7-9496-7-BEDCDF4-B1-A9.png">](https://www.beautifyconverter.com/steganographic-decoder.php)  <br><br><br><br>
+[<img align="left" height="150px" src="https://i.postimg.cc/c4MC9HfC/173149-F5-3-F57-40-C7-9496-7-BEDCDF4-B1-A9.png">](https://www.beautifyconverter.com/steganographic-decoder.php)  <br><br><br><br><br><br><br><br><br><br>
 
 
-<h3>Custom Viewcounter:</h3>
+<br><br><h3>Custom Viewcounter:</h3>
 
 <a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/Github%20Views.png'></a>
 
