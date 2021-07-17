@@ -1,8 +1,3 @@
-*Featured on [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) README*  
-*Featured on [coderjojo/create-profile-readme](https://coderjojo.github.io/creative-profile-readme/).*
-
-Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**, and **Designer Who Codes**. I like to develop projects that are unique and quirky. **Scroll down!!!**
-
 ---
 
 [<img align="left" height="150px" src="https://i.postimg.cc/c4MC9HfC/173149-F5-3-F57-40-C7-9496-7-BEDCDF4-B1-A9.png">](https://www.beautifyconverter.com/steganographic-decoder.php)  
