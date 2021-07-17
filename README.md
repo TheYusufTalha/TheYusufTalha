@@ -17,7 +17,7 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 
 <h3>Custom Viewcounter:</h3>
 
-<a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubViews.png'></a>
+<a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/Github%20Views.png'></a>
 
 ---
 
