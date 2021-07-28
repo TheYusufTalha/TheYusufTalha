@@ -1,7 +1,5 @@
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/518794343256031234)](https://discord.com/users/518794343256031234)
-
 [<img align="left" height="150px" src="https://i.postimg.cc/c4MC9HfC/173149-F5-3-F57-40-C7-9496-7-BEDCDF4-B1-A9.png">](https://www.beautifyconverter.com/steganographic-decoder.php)  <br><br><br><br><br><br>
 
 
