@@ -5,7 +5,7 @@
 
 <br><br><h3>Custom Viewcounter:</h3>
 
-<a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/Yusuf.png'></a>
+<img src='https://count.getloli.com/get/@TheYusufTalha?theme=rule34'>
 
 ---
 
